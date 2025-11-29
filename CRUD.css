@@ -1,3 +1,7 @@
+h1{
+    justify-self:center;
+    
+}
 .container{
     display:flex;
     justify-content:center;
